@@ -1,1 +1,1 @@
-"[C++] X O Game" 
+[C++] X O Game
